@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Emanuele</h1>
-<h3 align="center">A Biomedical engineering student from Italy</h3>
+<h3 align="center">A Biomedical engineer from Italy</h3>
 
 ## 💬 About me
-- Currently a Biomedical Engineering student at the [University of Genoa](https://unige.it/)
-- Bachelor's degree in Biomedical Engineering
+- Currently a PhD candidate in Biorobotics at [Technical University of Munich]([https://www.tum.de/en/])
+- Master's degree in Bioengineering at [University of Genoa]([https://unige.it/en])
+- Bachelor's degree in Biomedical Engineering at [Politecnico of Milan]([https://www.polimi.it/en])
 
 ## 📅 Hobbies
 - Learning new things
-- Watch films and TV shows
-- Workout
-- Play videogames
-- etc...
+- Watching films and TV shows
+- Working out/playing tennis
+- Reading books
 
 ## 🤖 My stats
 
