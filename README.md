@@ -11,9 +11,3 @@
 - Watching films and TV shows
 - Working out/playing tennis
 - Reading books
-
-## 🤖 My stats
-
-[![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaema99)](https://github.com/emaema99/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaema99&layout=donut)
