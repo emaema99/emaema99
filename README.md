@@ -8,7 +8,7 @@
 
 **PhD in Biorobotics and Computer Vision for HRI · Technical University of Munich**
 
-[LinkedIn](www.linkedin.com/in/emanueleaimi) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com) &nbsp;·&nbsp; [Email](mailto:emanuele.aimi@tum.de)
+[LinkedIn](https://www.linkedin.com/in/emanueleaimi) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com) &nbsp;·&nbsp; [Email](mailto:emanuele.aimi@tum.de)
 
 <br/>
 
