@@ -37,10 +37,3 @@ Human-Robot Interaction &nbsp;·&nbsp; Biomechanics &nbsp;·&nbsp; Motor Control
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=emaema99&show_icons=true&hide_border=true&theme=default&count_private=true&hide_title=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaema99&layout=compact&hide_border=true&theme=default&langs_count=5&hide_title=true" />
-</div>
